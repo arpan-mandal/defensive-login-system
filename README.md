@@ -4,6 +4,8 @@ A **dark-themed, professional, and secure** login page that requires a **SHA-256
 
 Designed for **privacy-focused** applications, this system is **lightweight, fast, and easy to integrate** with any website.  
 
+![Login Page](loginpage.png)
+
 ---
 
 ## **🚀 Features**  
