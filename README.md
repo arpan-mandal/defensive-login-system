@@ -1,4 +1,4 @@
-# **🔐 Defensive & Offensive Login System**  
+# **🔐 Defensive & Offensive Login System [V2]**  
 
 A **dark-themed, professional, and secure** login page that requires a **SHA-256 encrypted passcode** for authentication. This system ensures that **unauthorized users cannot access protected content simply by URL jumping** and logs **IP & browser details** of failed login attempts.  
 
