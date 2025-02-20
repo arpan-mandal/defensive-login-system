@@ -26,7 +26,7 @@ Designed for **privacy-focused** applications, this system is **lightweight, fas
 / (Root Directory)
 │── /public
 │   │── login.html      # Login page
-│   │── style.css      # Stylesheet for login page
+│   │── style.css       # Stylesheet for login page
 │   │── script.js       # Frontend scripts (notifications, effects)
 │── /home
 │   │── index.html      # Protected page (You can modify this with your own content)
